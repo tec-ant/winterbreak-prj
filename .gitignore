@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+/target/
+
+# Test directory (root or under src/)
+test/
+src/test/
+
+# Logs
+*.log
+
+# IDEs
+/.idea/
+/*.iml
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
